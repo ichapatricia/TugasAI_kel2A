@@ -1,8 +1,8 @@
 # Cara menggunakan AI " Sistem Rekomendasi Pekerjaan untuk Mahasiswa Informatika UKDW"
 Nama Anggota :
-71210700 - Tirsa W Makmara
-71210734 - Eunike Meilanie
-71210784 - Icha Patricia N
+a.  71210700 - Tirsa W Makmara
+b.  71210734 - Eunike Meilanie
+c.  71210784 - Icha Patricia N
 
 PRODUCTION SYSTEM
 *IF [user memilih minat A] THEN [sistem menampilkan mata kuliah yang harus diisi dari peminatan A] 
